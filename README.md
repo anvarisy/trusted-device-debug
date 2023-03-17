@@ -1,3 +1,3 @@
 # trusted-device-debug
 
-A description of this package.
+It will be use for tertes trusted device SDK
